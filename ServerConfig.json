@@ -1,0 +1,10 @@
+{
+  "Version": 1,
+  "Update": {
+    "Release": {
+      "DownloadUrls": ["https://ghproxy.net/https://github.com/xiaohuijix/PCL-RE/releases/latest/download/Latest.zip"],
+      "PatchUrls": []
+    },
+    "Snapshot": { "DownloadUrls": [], "PatchUrls": [] }
+  }
+}
