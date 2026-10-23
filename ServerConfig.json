@@ -2,9 +2,15 @@
   "Version": 1,
   "Update": {
     "Release": {
-      "DownloadUrls": ["https://ghproxy.net/https://github.com/xiaohuijix/PCL-RE/releases/latest/download/Latest.zip"],
+      "DownloadUrls": [
+        "https://gh-proxy.com/https://github.com/xiaohuijix/PCL-RE/releases/latest/download/Latest.zip",
+        "https://ghfast.top/https://github.com/xiaohuijix/PCL-RE/releases/latest/download/Latest.zip"
+      ],
       "PatchUrls": []
     },
-    "Snapshot": { "DownloadUrls": [], "PatchUrls": [] }
+    "Snapshot": {
+      "DownloadUrls": [],
+      "PatchUrls": []
+    }
   }
 }
