@@ -1,14 +1,22 @@
 [
   {
-    "id": 1001,
-    "requirements": {},
+    "id": 1002,
+    "requirements": {
+      "versioncode <=": 413
+    },
     "importantLevel": 1,
     "isUpdate": true,
-    "title": "PCL RE 2.99.0.0",
-    "description": "恢复了版本下载以及整合包拖拽安装, 并更名为 PCL RE",
+    "title": "PCL RE 更新",
+    "description": "PCL RE 2.99.0.1 已发布。\n\n恢复了版本下载以及整合包拖拽安装，并更名为 PCL RE。\n\n点下方按钮会在后台更新，完成后自动重启。",
     "buttons": [
-      { "text": "立即更新", "actions": { "update":{"requireUserInput":false} } },
-      { "text": "稍后", "actions": { "stop": {} } }
+      {
+        "text": "立即更新",
+        "actions": {
+          "update": {
+            "requireUserInput": false
+          }
+        }
+      }
     ]
   }
 ]
