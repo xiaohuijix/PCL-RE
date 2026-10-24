@@ -1,14 +1,26 @@
 [
   {
-    "id": 1005,
+    "id": 1004,
     "requirements": {},
     "importantLevel": 1,
     "isUpdate": true,
     "title": "PCL RE有新版本",
     "description": "更新内容:\n1.重构整体代码，为新功能加入做准备\n2.修改部分图标+界面动画\n3.PCL RE已拥有独立的服务api",
     "buttons": [
-      { "text": "立即更新", "actions": { "update":{"requireUserInput":false} } },
-      { "text": "稍后", "actions": { "stop": {} } }
+      {
+        "text": "立即更新",
+        "actions": {
+          "update": {
+            "requireUserInput": false
+          }
+        }
+      },
+      {
+        "text": "稍后",
+        "actions": {
+          "stop": {}
+        }
+      }
     ]
   }
 ]
