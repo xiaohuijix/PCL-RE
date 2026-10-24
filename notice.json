@@ -1,18 +1,14 @@
 [
   {
-    "id": 1003,
-    "requirements": {
-      "versioncode <=": 412
-    },
+    "id": 1004,
+    "requirements": {},
     "importantLevel": 1,
-    "isUpdate": false,
-    "title": "PCL RE",
-    "description": "更新通道维护完成。",
+    "isUpdate": true,
+    "title": "PCL RE 2.99.0.1已发布",
+    "description": "改动如下:\n1.重构代码层，为新功能的开发做准备。\n2.更改部分图标/用户界面动画。\n3.百宝箱重写，部分功能仍在维护中。",
     "buttons": [
-      {
-        "text": "知道了",
-        "actions": {}
-      }
+      { "text": "立即更新", "actions": { "update":{"requireUserInput":false} } },
+      { "text": "稍后", "actions": { "stop": {} } }
     ]
   }
 ]
