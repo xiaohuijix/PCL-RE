@@ -1,11 +1,11 @@
 [
   {
-    "id": 1005,
+    "id": 1006,
     "requirements": {},
     "importantLevel": 1,
     "isUpdate": true,
-    "title": "PCL RE 有新版本",
-    "description": "更新内容:\n1.重构整体代码\n2.修改部分图标/用户界面\n3.改用独立的PCL RE服务而非PCL2服务",
+    "title": "PCL RE 紧急备份",
+    "description": "",
     "buttons": [
       { "text": "立即更新", "actions": { "update":{"requireUserInput":false} } },
       { "text": "稍后", "actions": { "stop": {} } }
